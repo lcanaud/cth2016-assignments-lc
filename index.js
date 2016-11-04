@@ -28,7 +28,7 @@ switch(program.name)
         console.log(person1_age);
         console.log(person1_language);
         break;
-    case(person2_age:
+    case(person2_age):
         console.log(person2_name);
         console.log(person2_age);
         console.log(person2_language);
