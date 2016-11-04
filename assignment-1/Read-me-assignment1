@@ -1,9 +1,12 @@
 
-  Usage: index [options]
+ 
+  Usage: bookstore [options]
 
   Options:
 
     -h, --help             output usage information
     -V, --version          output the version number
-    -l, --language [code]  Language
-
+    -t, --title [string]   Title
+    -a, --author [string]  Author
+    -p, --price [string]   Price
+    -k, --kind [string]    Kind
